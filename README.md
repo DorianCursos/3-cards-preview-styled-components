@@ -1,5 +1,4 @@
-# Título del proyecto
-<h1>Hi, I'm Katherine! 👋</h1>
+# 3 Cards Preview Styled Components
 
 <p>
     <img src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/desktop-preview.jpg" alt="Imagen del proyecto">
@@ -29,8 +28,8 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
     <a href="https://es.wikipedia.org/wiki/React">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo">
     </a>
-    <a href="https://es.wikipedia.org/wiki/CSS">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">
+    <a href="https://styled-components.com/">
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
     </a>
 </p>
 
