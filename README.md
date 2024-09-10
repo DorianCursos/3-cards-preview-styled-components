@@ -65,6 +65,9 @@ Este proyecto está construido en Vite.
 - Para construir la versión de producción ejecuta el comando <b>npm run build</b>
 - Para previsualizar la versión final ejecuta el comando <b>npm run preview</b>
 
+## Link del reto
+<a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-">Página de frontendmentor</a>
+
 ## Licencia 📄
 
 MIT Public License v3.0
