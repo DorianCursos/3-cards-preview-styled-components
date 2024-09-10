@@ -1,5 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 import './normalize.css';
+import { COLORS } from './colors';
 export const GlobalStyles = createGlobalStyle`
     *,
     *::after,
@@ -24,4 +25,14 @@ export const GlobalStyles = createGlobalStyle`
         color: inherit;
     }
 
+    body {
+        font-family: 'Lexend Deca', sans-serif;
+        font-size: 0.9375rem;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-family: 'Big Shoulders Display', sans-serif;
+    }
 `;
